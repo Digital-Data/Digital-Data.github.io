@@ -37,5 +37,13 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
+### Gist 1
 
 <script src="https://gist.github.com/danielct29/ae0889c1ea5749a3a9f371ce05856900.js"></script>
+
+### Gist 2
+
+<script src="https://gist.github.com/danielct29/55842292083b906dd431f255394db283.js"></script>
+
+
+
